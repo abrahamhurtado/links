@@ -28,6 +28,7 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 - [Thread en Twitter por **@cpojer** donde cuenta su experiencia como manager de ingeniería en FB](https://twitter.com/cpojer/status/993982733285298177)
 - [Inheritance is evil. Stop using it. por **Nicolò Pignatelli**](https://twitter.com/cpojer/status/993982733285298177)
 - [Functional Reactive Programming(FRP) — Imperative vs Declarative vs Reactive style por **Navdeep Singh**](https://codeburst.io/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f)
+- [Hexagonal Architecture por **Fideloper**](http://fideloper.com/hexagonal-architecture)
 
 <!-- inicia Artículos -->
 <a name="articulos"></a>
