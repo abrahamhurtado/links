@@ -10,6 +10,8 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 - [Ingeniería](#ingenieria)
     - [DevOps](#devops)
     - [Management](#management)
+    - [Programación](#programacion)
+        - [Pláticas](#programacion-platicas)
 - [Artículos](#articulos)
     - [Internet, decentralización, etc.](#int-dec-etc)
 
@@ -29,6 +31,15 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 - [Inheritance is evil. Stop using it. por **Nicolò Pignatelli**](https://twitter.com/cpojer/status/993982733285298177)
 - [Functional Reactive Programming(FRP) — Imperative vs Declarative vs Reactive style por **Navdeep Singh**](https://codeburst.io/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f)
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices por **Seth Robertson**](https://sethrobertson.github.io/GitBestPractices/)
+
+<!-- inicia Ingeniería-programación-->
+<a name="programacion"></a>
+#### Programación
+
+<!-- inicia Ingeniería-programación-pláticas -->
+<a name="programacion-platicas"></a>
+##### Pláticas
+- [Two Fundamental Abstractions por **Andre Staltz**](https://www.youtube.com/watch?v=fdol03pcvMA)
 
 <!-- inicia Artículos -->
 <a name="articulos"></a>
