@@ -27,7 +27,7 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 <a name="management"></a>
 #### Management
 - [Thread en Twitter por **@cpojer** donde cuenta su experiencia como manager de ingeniería en FB](https://twitter.com/cpojer/status/993982733285298177)
-- [Inheritance is evil. Stop using it. por **Nicolò Pignatelli**](https://twitter.com/cpojer/status/993982733285298177)
+- [Inheritance is evil. Stop using it. por **Nicolò Pignatelli**](https://codeburst.io/inheritance-is-evil-stop-using-it-6c4f1caf5117)
 - [Functional Reactive Programming(FRP) — Imperative vs Declarative vs Reactive style por **Navdeep Singh**](https://codeburst.io/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f)
 - [Commit Often, Perfect Later, Publish Once: Git Best Practices por **Seth Robertson**](https://sethrobertson.github.io/GitBestPractices/)
 - [Hexagonal Architecture por **Fideloper**](http://fideloper.com/hexagonal-architecture)
