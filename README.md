@@ -11,6 +11,8 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
     - [DevOps](#devops)
     - [Management](#management)
     - [Programación](#programacion)
+- [Diseño](#diseno)
+    - [Blogs](#blogs)
 - [Artículos](#articulos)
     - [Internet, decentralización, etc.](#int-dec-etc)
 
@@ -43,6 +45,13 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 - [Elements of AI, curso gratuito de Inteligencia Artificial por **Reaktor y la Universidad de Helsinki**](https://www.elementsofai.com/)
 - [Enlight, sitio para aprender a programar construyendo proyectos reales](https://enlight.nyc/)
 
+<!-- inicia Diseño -->
+<a name="diseno"></a>
+# Diseño
+
+<!-- inicia Diseño-blogs -->
+#### Blogs
+- [Inclusive Components: un blog/pattern library para construir componentes accesibles para la web](https://inclusive-components.design/about-the-project/)
 
 <!-- inicia Artículos -->
 <a name="articulos"></a>
