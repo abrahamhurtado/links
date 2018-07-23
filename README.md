@@ -37,6 +37,13 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 #### Programación
 - [Two Fundamental Abstractions por **Andre Staltz**](https://www.youtube.com/watch?v=fdol03pcvMA) [Video]
 
+<!-- inicia Ingeniería-cursos-->
+<a name="cursos"></a>
+#### Cursos
+- [Elements of AI, curso gratuito de Inteligencia Artificial por **Reaktor y la Universidad de Helsinki**](https://www.elementsofai.com/)
+- [Enlight, sitio para aprender a programar construyendo proyectos reales](https://enlight.nyc/)
+
+
 <!-- inicia Artículos -->
 <a name="articulos"></a>
 # Artículos
