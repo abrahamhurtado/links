@@ -13,6 +13,7 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
     - [Programación](#programacion)
 - [Diseño](#diseno)
     - [Blogs](#blogs)
+    - [Herramientas](#herramientas)
 - [Artículos](#articulos)
     - [Internet, decentralización, etc.](#int-dec-etc)
 
@@ -51,7 +52,13 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 
 <!-- inicia Diseño-blogs -->
 #### Blogs
-- [Inclusive Components: un blog/pattern library para construir componentes accesibles para la web](https://inclusive-components.design/about-the-project/)
+- [**Inclusive Components**, un blog/pattern library para construir componentes accesibles para la web](https://inclusive-components.design/about-the-project/)
+
+<!-- inicia Diseño herramientas -->
+#### Herramientas
+- [**Figma**, una herramienta colaborativa de diseño de interfaces](https://figma.com)
+- [**Colormind**, un generador de paletas de colores que utiliza IA](http://www.colormind.io/)
+- [**Card Surge**, playground en vivo para diseñar componentes estilo Card](https://card.surge.sh/)
 
 <!-- inicia Artículos -->
 <a name="articulos"></a>
