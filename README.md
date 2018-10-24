@@ -26,6 +26,7 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 <a name="devops"></a>
 #### DevOps
 - [**How to Get Continuous Integration Right** por Nicolò Pignatelli](https://hackernoon.com/how-to-get-continuous-integration-right-77bda4bc0d1f)
+- [**9 Common Dockerfile Mistakes**](https://runnable.com/blog/9-common-dockerfile-mistakes)
 
 <!-- inicia Ingeniería-management -->
 <a name="management"></a>
@@ -35,11 +36,23 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 - [**Functional Reactive Programming (FRP) — Imperative vs Declarative vs Reactive style** por Navdeep Singh](https://codeburst.io/functional-reactive-programming-frp-imperative-vs-declarative-vs-reactive-style-84878272c77f)
 - [**Commit Often, Perfect Later, Publish Once: Git Best Practices** por Seth Robertson](https://sethrobertson.github.io/GitBestPractices/)
 - [**Hexagonal Architecture** por Fideloper](http://fideloper.com/hexagonal-architecture)
+- [**Flight rules para Git**](https://github.com/k88hudson/git-flight-rules)
+- [**Git - The Simple Guide**](http://rogerdudler.github.io/git-guide/)
+- [**33 conceptos que cualquier JavaScript developer debería saber**](https://github.com/leonardomso/33-js-concepts)
+- [**Itsy Bitsy Data Structures**, ejemplos simplificados en código, de las estructuras de datos más comunes y su utilidad](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
+- [**JavaScript Algorithms**, una colección completa de algoritmos y estructuras de datos implementadas en JavaScript, más lecturas adicionales](https://github.com/trekhleb/javascript-algorithms)
 
 <!-- inicia Ingeniería-programación-->
 <a name="programacion"></a>
 #### Programación
 - [**Two Fundamental Abstractions** por Andre Staltz](https://www.youtube.com/watch?v=fdol03pcvMA) [Video]
+- [**Las mejores prácticas para desarrollar en Node.js**, contenido curado por más de 50 devs](https://github.com/i0natan/nodebestpractices)
+- [**Learn API Design**, una colección de contenido para aprender sobre APIs y su desarrollo](https://github.com/dwyl/learn-api-design)
+
+<!--inicia Ingeniería-utilidades-->
+#### Utilidades
+- [**Cheat sheet de comandos para Linux Bash**](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)
+- [**Cheat sheet de SQL**](https://github.com/enochtangg/quick-SQL-cheatsheet)
 
 <!-- inicia Ingeniería-cursos-->
 <a name="cursos"></a>
@@ -73,3 +86,4 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 
 #### UX
 - [**Design better forms**, de Andrew Coyle para UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+- [**https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914**](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
