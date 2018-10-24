@@ -86,4 +86,4 @@ La motivación principal de este repo es centralizar en un sólo recurso, múlti
 
 #### UX
 - [**Design better forms**, de Andrew Coyle para UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)
-- [**https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914**](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
+- [**50 things you probably forgot to design**, lista de algunas de las pantallas que se nos olvida trabajar y mejorarían la UX](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
